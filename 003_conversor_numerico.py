@@ -26,7 +26,7 @@ while True: #para o programa ser infinito
                 continue
             os.system('cls')  
             print(f'O número {decimal} em binário fica = {binario[::-1]}')
-            # print(bin(int(decimal))) # Para verificar a 
+            # print(bin(int(decimal))) # Para verificar a resposta.
             break
     elif pergunta == 'B':
         while True:
